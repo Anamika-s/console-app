@@ -1,0 +1,5 @@
+E:\console-app\HelloApp\Test\bin\Release\net5.0\publish\Test.exe
+E:\console-app\HelloApp\Test\bin\Release\net5.0\publish\Test.dll
+E:\console-app\HelloApp\Test\bin\Release\net5.0\publish\Test.deps.json
+E:\console-app\HelloApp\Test\bin\Release\net5.0\publish\Test.runtimeconfig.json
+E:\console-app\HelloApp\Test\bin\Release\net5.0\publish\Test.pdb
